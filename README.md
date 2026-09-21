@@ -2,7 +2,7 @@
   <img src="docs/codegraph-logo.svg" alt="CodeGraph logo" width="620">
 </p>
 
-# CodeGraph
+
 
 CodeGraph is a local Java desktop application for exploring large source-code
 repositories using hybrid lexical and semantic search. It scans source files,
