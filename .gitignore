@@ -1,0 +1,15 @@
+target/
+*.class
+.idea/
+.vscode/
+.DS_Store
+.env
+.env.*
+*.pem
+credentials*
+models/**/*.onnx
+models/**/*.bin
+models/**/*.safetensors
+models/**/tokenizer.json
+cache/
+/*.iml
