@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-labelledby="title description">
+  <title id="title">CodeGraph</title>
+  <desc id="description">A lime diamond beside the CodeGraph wordmark.</desc>
+  <rect width="760" height="180" rx="24" fill="#101318"/>
+  <rect x="68" y="52" width="76" height="76" rx="5" fill="none" stroke="#c8ff00" stroke-width="12" transform="rotate(45 106 90)"/>
+  <text x="185" y="109" fill="#f5f5f7" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">CodeGraph</text>
+  <text x="188" y="139" fill="#a5aab9" font-family="Arial, Helvetica, sans-serif" font-size="18">Local hybrid code search</text>
+</svg>
